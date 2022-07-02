@@ -1,0 +1,26 @@
+
+
+.top{
+    width: 100vw;
+    height: 30vh;
+   
+    
+}
+.wrap{
+    width: 100vw;
+    height: 100vh;
+   
+   
+}
+.middle{
+    border: 1px solid lightgray;
+}
+h6,.reward-text{
+    color:  rgba(0,0,0,.58)!important;
+}
+ 
+.nav{
+    border-bottom: 1px solid lightgrey;
+}
+
+
